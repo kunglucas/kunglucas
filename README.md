@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunglucas
 - 👀 I’m interested in creating backend web applications.
 - 🌱 I’m currently learning Full stack developer open source.
-- 💞️ I’m looking to collaborate on PHP applications :)
+- 💞️ Checkout [ https://ll-wd.com ] :)
 - 📫 How to reach me kontakt@ll-wd.com
 
 <!---
